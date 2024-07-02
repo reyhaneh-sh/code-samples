@@ -11,6 +11,11 @@ I'll continue to update this repository with additional samples over time.
 
 Each sample is organized into its own directory for easy navigation.
 
+#### [decoder](https://github.com/reyhaneh-sh/code-samples/tree/main/decoder):
+- **Description**: This Python script decodes a message from a text file using a numerical pyramid structure, 
+    where the words corresponding to the numbers at the end of each pyramid row form the decoded message.
+- **Tools and technologies**: Python
+
 #### [automated_insta_package](https://github.com/reyhaneh-sh/code-samples/tree/main/automated_insta_package):
 
 - **Description**: This is a project snippet, part of a package to
@@ -19,4 +24,5 @@ Each sample is organized into its own directory for easy navigation.
 
 ## Contact
 
-If you're interested in discussing my work further or have any inquiries, please don't hesitate to message me on [LinkedIn](https://www.linkedin.com/in/reyhaneh-sharifzadeh/).
+If you're interested in discussing my work further or have any inquiries, 
+please don't hesitate to message me on [LinkedIn](https://www.linkedin.com/in/reyhaneh-sharifzadeh/).
